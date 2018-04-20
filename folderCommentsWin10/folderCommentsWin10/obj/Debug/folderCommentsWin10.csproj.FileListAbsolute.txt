@@ -1,0 +1,15 @@
+C:\Users\Alex\source\repos\folderCommentsWin10\folderCommentsWin10\bin\Debug\folderCommentsWin10.exe.config
+C:\Users\Alex\source\repos\folderCommentsWin10\folderCommentsWin10\bin\Debug\folderCommentsWin10.exe
+C:\Users\Alex\source\repos\folderCommentsWin10\folderCommentsWin10\bin\Debug\folderCommentsWin10.pdb
+C:\Users\Alex\source\repos\folderCommentsWin10\folderCommentsWin10\obj\Debug\folderCommentsWin10.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\folderCommentsWin10\folderCommentsWin10\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\source\repos\folderCommentsWin10\folderCommentsWin10\obj\Debug\App.g.cs
+C:\Users\Alex\source\repos\folderCommentsWin10\folderCommentsWin10\obj\Debug\folderCommentsWin10_MarkupCompile.cache
+C:\Users\Alex\source\repos\folderCommentsWin10\folderCommentsWin10\obj\Debug\folderCommentsWin10_MarkupCompile.lref
+C:\Users\Alex\source\repos\folderCommentsWin10\folderCommentsWin10\obj\Debug\MainWindow.baml
+C:\Users\Alex\source\repos\folderCommentsWin10\folderCommentsWin10\obj\Debug\folderCommentsWin10.g.resources
+C:\Users\Alex\source\repos\folderCommentsWin10\folderCommentsWin10\obj\Debug\folderCommentsWin10.Properties.Resources.resources
+C:\Users\Alex\source\repos\folderCommentsWin10\folderCommentsWin10\obj\Debug\folderCommentsWin10.csproj.GenerateResource.Cache
+C:\Users\Alex\source\repos\folderCommentsWin10\folderCommentsWin10\obj\Debug\folderCommentsWin10.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\folderCommentsWin10\folderCommentsWin10\obj\Debug\folderCommentsWin10.exe
+C:\Users\Alex\source\repos\folderCommentsWin10\folderCommentsWin10\obj\Debug\folderCommentsWin10.pdb

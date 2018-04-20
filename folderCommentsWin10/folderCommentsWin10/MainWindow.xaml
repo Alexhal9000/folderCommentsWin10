@@ -1,0 +1,16 @@
+﻿<Window x:Class="folderCommentsWin10.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:folderCommentsWin10"
+        mc:Ignorable="d"
+        Title="Folder Comments - Windows 10 " Height="209.497" Width="525" ResizeMode="NoResize" AllowDrop="True" Drop="Grid_Drop">
+    <Grid VerticalAlignment="Top" Height="182" Width="520" MinWidth="520" MinHeight="182" AllowDrop="True" Drop="Grid_Drop">
+        <Label Content="Drag and drop your folder" HorizontalAlignment="Left" Margin="28,23,0,0" VerticalAlignment="Top" Width="152"/>
+        <TextBox x:Name="PathName" HorizontalAlignment="Left" Height="23" Margin="195,27,0,0" TextWrapping="Wrap" Text="path..." VerticalAlignment="Top" Width="289" AllowDrop="True" Drop="Grid_Drop"/>
+        <Label Content="Write your comment" HorizontalAlignment="Left" Margin="28,68,0,0" VerticalAlignment="Top" Width="152"/>
+        <TextBox x:Name="commentBox" HorizontalAlignment="Left" Height="82" Margin="195,72,0,0" TextWrapping="Wrap" Text="Comment..." VerticalAlignment="Top" Width="289" AllowDrop="True" Drop="Grid_Drop"/>
+        <Button x:Name="saveBtn" Content="SAVE" HorizontalAlignment="Left" Height="38" Margin="34,116,0,0" VerticalAlignment="Top" Width="121" Click="saveBtn_Click"/>
+    </Grid>
+</Window>
